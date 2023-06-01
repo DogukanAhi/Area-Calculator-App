@@ -1,0 +1,17 @@
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\bin\Debug\net6.0-windows\Calculator Area.exe
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\bin\Debug\net6.0-windows\Calculator Area.deps.json
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\bin\Debug\net6.0-windows\Calculator Area.runtimeconfig.json
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\bin\Debug\net6.0-windows\Calculator Area.dll
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\bin\Debug\net6.0-windows\Calculator Area.pdb
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\obj\Debug\net6.0-windows\Calculator Area.csproj.AssemblyReference.cache
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\obj\Debug\net6.0-windows\Calculator_Area.Form1.resources
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\obj\Debug\net6.0-windows\Calculator Area.csproj.GenerateResource.cache
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\obj\Debug\net6.0-windows\Calculator Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\obj\Debug\net6.0-windows\Calculator Area.AssemblyInfoInputs.cache
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\obj\Debug\net6.0-windows\Calculator Area.AssemblyInfo.cs
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\obj\Debug\net6.0-windows\Calculator Area.csproj.CoreCompileInputs.cache
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\obj\Debug\net6.0-windows\Calculator Area.dll
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\obj\Debug\net6.0-windows\refint\Calculator Area.dll
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\obj\Debug\net6.0-windows\Calculator Area.pdb
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\obj\Debug\net6.0-windows\Calculator Area.genruntimeconfig.cache
+C:\Users\bf427\Desktop\c# ders\Calculator Area\Calculator Area\obj\Debug\net6.0-windows\ref\Calculator Area.dll
